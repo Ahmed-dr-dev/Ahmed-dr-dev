@@ -1,6 +1,6 @@
 # Ahmed Draief 👋
 
-**Full Stack Developer | Next.js • Node.js • PostgreSQL**
+**Full Stack Developer **
 
 ---
 
@@ -39,7 +39,7 @@ Next.js | React | TypeScript | JavaScript
 Node.js | Express.js | REST APIs
 
 ### 🗄️ Databases
-PostgreSQL | Supabase
+PostgreSQL | Supabase | MongoDB
 
 ### 🔧 Tools & Technologies
 Git | Docker | Vercel | CI/CD Pipelines
@@ -49,23 +49,23 @@ Git | Docker | Vercel | CI/CD Pipelines
 ## ⭐ Featured Projects
 
 ### Almindhar  
-_A comprehensive real estate platform simplifying property search and transactions in Tunisia._  
-Technologies: Next.js, Node.js, PostgreSQL, REST APIs  
+A comprehensive real estate platform simplifying property search and transactions in Tunisia.  
+Technologies: Next.js, Supabase, REST APIs  
 Developed a user‑focused portal where visitors can **search, buy, sell, rent, or estimate property values** with ease. Features include advanced filtering, property listings, pricing tools, and agent discovery — all designed to make real estate navigation simple and efficient for users. ([dev.al-mindhar.com](https://dev.al-mindhar.com/))
 
 ### Almindhar Booking  
-_A Tunisian short‑term accommodation booking platform connecting travelers with local hosts._  
-Technologies: Next.js, Node.js, PostgreSQL, REST APIs  
+A Tunisian short‑term accommodation booking platform connecting travelers with local hosts._  
+Technologies: Next.js, Supabase, REST APIs  
 Built a scalable marketplace that allows users to **find and book short‑term stays across Tunisia**, with secure payment options, host management features, flexible cancellation policies, and interactive search tools. The platform supports both travelers and property hosts, enhancing accessibility to local stays tailored to diverse needs. ([almindharbooking.com](https://www.almindharbooking.com/about/qui-sommes-nous?utm_source=chatgpt.com))
 
 ### Express Kilo  
-_A fast, reliable delivery and logistics web app designed for optimal route management and package tracking._  
-Technologies: React, Node.js, Socket.io, MongoDB  
+A fast, reliable delivery and logistics web app designed for optimal route management and package tracking in Canada._  
+Technologies: Next.js, Node.js, Express, PostgreSQL  ,flutter 
 Enabled real‑time tracking and communication between drivers and users to improve delivery efficiency and user satisfaction.
 
 ### Collecti  
-_Smart, AI‑powered waste management platform connecting citizens, collectors, and dispatchers._  
-Technologies: Flutter, Supabase, AI Integration, Real‑time APIs  
+Smart, AI‑powered waste management platform connecting citizens, collectors, and dispatchers._  
+Technologies: React Native, MongoDB, AI Integration, Real‑time APIs  ,Node.js ,Express.js
 Implemented a community‑driven solution with gamification and real‑time tracking to improve sustainability and user engagement.
 
 ---
